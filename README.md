@@ -3,7 +3,7 @@
 🔭 I’m currently studying on Sri Eshwar College of Engineering<br>🌱 I’m currently pursuing Bachelors of Computer Science Engineering<br>🤝 I’m looking for project Collaboration<br>👯 I’m looking to collaborate as an UI/UX Developer<br>💬 Ask me about UI Designing and Development...<br>
 
 #
-![uxui-banner](https://user-images.githubusercontent.com/107316771/224365365-147748fa-b4ad-419d-a236-9ebf73648ce0.png)<br>
+![6M8R](https://user-images.githubusercontent.com/107316771/224473831-8bde5aa5-5ea3-4440-b0ae-1826792fc16a.gif)<br>
 #
 
 👨‍💻 All of my projects are available at [https://lokeshbalakrishnan.github.io/MyPortfolio/LOKE/]<br>📝 I regularly write articles on [https://lokethedesignersdiary.blogspot.com/2023/03/how-students-engineers-and-developers.html]<br>📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1muEfFyUrD_O6PYmb0GD53JhDMMCEYQZI]<br>📫 How to reach me lokeshbalakrishnan21@gmail.com
